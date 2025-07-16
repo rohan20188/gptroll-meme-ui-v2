@@ -1,8 +1,10 @@
+import React from 'react';
+
 function App() {
   return (
-    <div style={{ textAlign: 'center', padding: '2rem' }}>
-      <h1>Welcome to GPTROLL Meme Generator</h1>
-      <p>Build memes. Troll the world.</p>
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>GPTROLL Meme UI</h1>
+      <p>The app is running successfully!</p>
     </div>
   );
 }
