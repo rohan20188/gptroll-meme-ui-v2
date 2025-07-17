@@ -4,7 +4,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
       <h1>GPTROLL Meme UI</h1>
-      <p>The app is running successfully!</p>
+      <p>The App is running successfully!</p>
     </div>
   );
 }
